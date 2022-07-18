@@ -1,0 +1,19 @@
+Before flatiron, I was a ux/ui designer and the most I knew of coding was HTML/CSS. 
+But, and I'm sure this was true with everyone who first starts out. I hated javascript. 
+
+With a passion. 
+
+I just didn't understand it. All the complex functions how and when to use variables...what even are variebles?
+It's like I was reading swedish. But it made sense. Even when using jquery for my designing 
+I could tell how the functions worked, how it would make sense. But then i see pure javascript 
+and nothing makes sense. I was missing the contextual syntax that makes it make sense. 
+I was missing the organization and structure it would take to learn period. And learning javascript
+was interesting. And that's about what i'll give it for now. 
+
+Though in my second week it kind of all came to me. 
+The functions, the variables the syntax. Everything that made me scared to learn it became 
+a tool that empowered me to make whatever I want. In that instance, all the app designs I made 
+seemed like more than just mere concepts. I could actually bring my designs into the real world. 
+And that was the truly empowering part of conquering my fears with javascript. 
+
+I'm going to make Regimen into an app. 
