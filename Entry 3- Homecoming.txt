@@ -1,0 +1,16 @@
+It took awhile to get my moving and other things in order but I can comfortably say I've fully settled down. 
+
+Getting into the routine of things again is always a weird feeling. Like coming back to a piece of code you just began after a long 
+vacation. It feels short enough to have thought out everything but long enough that you don't even remember where you were going to
+start. 
+
+There are two things I have in mind particularly: remake my website in React.js and redeploy Regimen under a newer more fiting name.
+I'll start with the remake first and work my way from there. I also want to fix up the jersey wyldlife project as well and use those.
+Adding those 3 and maybe even more would be good. Heck, rename regimen and you have 2 seperate projects there. It'd make for a nice 
+showcase. 
+
+Additionaly, getting started on data structures and algorythms studying will begin this coming Monday. I'll figure out my schedule 
+it tomorrow after work. For today it'll be planning and structuring the site. 
+
+See, the good thing is: You already did this. So the brunt of the work is copy pasting. I'll ponder some design ideas at work to
+get the busy work out of the way. And speaking of, it's time to get ready for work. 
