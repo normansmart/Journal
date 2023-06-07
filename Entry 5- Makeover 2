@@ -1,0 +1,11 @@
+I'm beginning to understand Githubs REST API. Making calls from my account to show live updates of commit messages in certain repos
+is the current objective and it's coming together amazingly. I was able to make it work through the curl process, but octokit's await 
+is not working. And treats the response to json like and object key value pair and tries to invoke it....into a red screen.
+
+I will try using a different async method and try again with better security measures to protect my access token. 
+
+The structure is looking good too. To increase work efficiency, I will try to build with as little pages as possible. And increase component usage efficiency. I can't have a bunch of things strung about my file page. The Figma designs were built for this purpose, after all. 
+
+Speaking of Figma designs, since this will be in React, i'll test out the Container CSS mod that moises taught me to also reduce on file capacity/size. I'd say half the skeleton is done. Pictures will be posted on the blog so for now I will tackle the API calls before working on anything specific. 
+
+Here's to the next update. 
